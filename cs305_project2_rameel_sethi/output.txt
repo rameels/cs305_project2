@@ -1,0 +1,424 @@
+-----  Stop and Wait Network Simulator Version 1.1 -------- 
+
+Enter the number of messages to simulate: Enter  packet loss probability [enter 0.0 for no loss]:Enter packet corruption probability [0.0 for no corruption]:Enter average time between messages from sender's layer5 [ > 0.0]:Enter TRACE:
+EVENT time: 1.870574,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 3.512484,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 4.926962,  type: 1, fromlayer5  entity: 0
+          TOLAYER3: packet being lost
+
+EVENT time: 5.182523,  type: 1, fromlayer5  entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 6.053919,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 6.160234,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 7.335669,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 7.337660,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 9.119585,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 9.504083,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 9.517292,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 10.982870,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 11.538310,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+          TOLAYER3: packet being lost
+
+EVENT time: 11.999937,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 12.178047,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 13.904651,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 13.984558,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 14.141754,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 15.106245,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 16.181349,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 16.543716,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 17.734983,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 19.681484,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 19.875973,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 21.837744,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 23.412983,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 27.571566,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 28.877954,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 31.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being corrupted
+          TOLAYER3: packet being corrupted
+
+EVENT time: 37.449192,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 43.699127,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 48.518410,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 53.090542,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 57.914490,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 61.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being lost
+          TOLAYER3: packet being lost
+          TOLAYER3: packet being corrupted
+          TOLAYER3: packet being lost
+
+EVENT time: 67.147255,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 68.953590,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 71.901306,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 71.970627,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 77.954727,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 91.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being corrupted
+          TOLAYER3: packet being lost
+
+EVENT time: 99.732513,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 106.429359,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 107.690376,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 112.082840,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 117.178558,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 117.747871,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 119.683777,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 121.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being lost
+          TOLAYER3: packet being lost
+          TOLAYER3: packet being corrupted
+          TOLAYER3: packet being corrupted
+          TOLAYER3: packet being corrupted
+
+EVENT time: 125.943054,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 127.771530,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 133.018661,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 136.594650,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 138.178513,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 145.538391,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 151.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being lost
+          TOLAYER3: packet being corrupted
+
+EVENT time: 154.860840,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 154.866959,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 156.015991,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 162.468964,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 163.584503,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 167.758209,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 171.599854,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 172.136230,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 174.921616,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 176.518097,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 180.236313,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 181.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 186.742249,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 188.147873,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 193.281479,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 195.699844,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 197.389221,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 203.122269,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+          TOLAYER3: packet being lost
+
+EVENT time: 204.670670,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 208.542007,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 211.176056,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 211.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being corrupted
+          TOLAYER3: packet being corrupted
+          TOLAYER3: packet being lost
+          TOLAYER3: packet being lost
+
+EVENT time: 212.320389,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 215.301025,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 215.335236,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 216.838531,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 225.260666,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 227.674393,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 230.941971,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 232.105377,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 233.952576,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 241.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being lost
+          TOLAYER3: packet being lost
+          TOLAYER3: packet being corrupted
+
+EVENT time: 250.584091,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 252.711792,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 256.379608,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 259.886047,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 262.998505,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 266.508545,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 267.042450,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 271.218964,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 271.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being lost
+
+EVENT time: 273.109802,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 275.012238,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 275.576202,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 282.239166,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 284.281128,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 285.188995,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 290.362549,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 291.118622,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 292.576508,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 294.575012,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 297.881195,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 299.128723,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 301.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being lost
+
+EVENT time: 302.917419,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 308.268768,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 310.889709,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 313.349731,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 315.220520,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+          TOLAYER3: packet being lost
+
+EVENT time: 317.437347,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+          TOLAYER3: packet being lost
+
+EVENT time: 318.916870,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 321.050507,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 331.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being lost
+
+EVENT time: 337.557922,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 343.071014,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 344.710693,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 344.969391,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+          TOLAYER3: packet being corrupted
+
+EVENT time: 347.947998,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 350.662140,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 355.075287,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 359.006256,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 360.546112,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 361.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being corrupted
+          TOLAYER3: packet being lost
+
+EVENT time: 363.620941,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 365.051514,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 370.518158,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 373.584381,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+          TOLAYER3: packet being corrupted
+
+EVENT time: 379.660980,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 382.963898,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 386.215271,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 391.174072,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 391.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being corrupted
+          TOLAYER3: packet being lost
+          TOLAYER3: packet being lost
+
+EVENT time: 397.705048,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 400.880127,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 407.195618,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 410.296051,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+          TOLAYER3: packet being lost
+
+EVENT time: 414.691345,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 421.870575,  type: 0, timerinterrupt   entity: 0
+
+EVENT time: 424.154663,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 426.292694,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 433.017731,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 434.173096,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 441.263214,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 443.859314,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 446.844025,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 448.766327,  type: 2, fromlayer3  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 451.870575,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 456.798798,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 460.027435,  type: 2, fromlayer3  entity: 0
+ Simulator terminated at time 460.027435
+ after sending 20 msgs from layer5
+ All messages arrived safely
+Input message:aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbccccccccccccccccccccddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeffffffffffffffffffffgggggggggggggggggggghhhhhhhhhhhhhhhhhhhhiiiiiiiiiiiiiiiiiiiijjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkllllllllllllllllllllmmmmmmmmmmmmmmmmmmmmnnnnnnnnnnnnnnnnnnnnooooooooooooooooooooppppppppppppppppppppqqqqqqqqqqqqqqqqqqqqrrrrrrrrrrrrrrrrrrrrsssssssssssssssssssstttttttttttttttttttt
+Output message:aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbccccccccccccccccccccddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeffffffffffffffffffffgggggggggggggggggggghhhhhhhhhhhhhhhhhhhhiiiiiiiiiiiiiiiiiiiijjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkllllllllllllllllllllmmmmmmmmmmmmmmmmmmmmnnnnnnnnnnnnnnnnnnnnooooooooooooooooooooppppppppppppppppppppqqqqqqqqqqqqqqqqqqqqrrrrrrrrrrrrrrrrrrrrsssssssssssssssssssstttttttttttttttttttt
